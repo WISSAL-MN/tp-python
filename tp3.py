@@ -7,5 +7,3 @@ resultt=  best_first_graph_search (prob,prob.h)
 print (resultt.path())
  
   
-#cd por acceder au do
-#python nom du fichier
